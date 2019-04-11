@@ -1,0 +1,9 @@
+{
+  "name": "@helpfulhuman/tslint-rules",
+  "version": "1.0.0",
+  "description": "git",
+  "main": "tslint.json",
+  "dependencies": {
+    "tslint-react": "^4.0.0"
+  }
+}
